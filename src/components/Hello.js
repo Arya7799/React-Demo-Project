@@ -7,6 +7,9 @@ const Hello = (props) => {
       <h1>
         Hello {name} a.k.a {superHero}
       </h1>
+      <h4>React Learning</h4>
+      <h4>React Learning</h4>
+      <h4>React Learning</h4>
     </div>
   );
   //   return React.createElement(
