@@ -34,6 +34,7 @@ class Form extends Component {
   render() {
     return (
       <form onSubmit={this.submitHandler}>
+        <h1>Hello React</h1>
         <div>
           <label>UserName</label>
           <input
